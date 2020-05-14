@@ -3,7 +3,6 @@
 \LoadClass{article}
 \usepackage[margin=2cm]{geometry}
 \RequirePackage{titlesec}
-\renewcommand\familydefault{\sfdefault}
 \titleformat{\section}         % Customise the \section command 
   {\Large\raggedright} % Make the \section headers large (\Large),
                                % small capitals (\scshape) and left aligned (\raggedright)
