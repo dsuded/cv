@@ -2,7 +2,9 @@
 \ProvidesClass{cv}[2020/05/20 My custom CV class]
 \LoadClass{article}
 \usepackage[margin=2cm]{geometry}
+\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 \RequirePackage{titlesec}
 \titleformat{\section}         
